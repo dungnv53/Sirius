@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Mover : MonoBehaviour {
 
-	float speed = 1.0f;
+	float speed = 0.0f; // 1.0f HOT FIX
 	float speedDown = 0.0f; //0.2f; Disable speed down
 	// Use this for initialization
 	void Start () {
