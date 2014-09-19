@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoveDown.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LeftLoop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LeftLoop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RightLoop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Mover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LineCheckController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoverRight.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Score.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NewRightLoop.cs" Line="16" Column="23" />
+      <File FileName="Assets/Scripts/MoveDown.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dungnv/Documents/Trash/BubleBall/Assets/Scripts/LeftLoop.cs" line="18" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
